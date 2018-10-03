@@ -1,0 +1,4 @@
+https://210.211.97.242:2222/
+user   : mdmenc
+pass   : f1AVc4GYag@%
+domain : mdmenc.vn
