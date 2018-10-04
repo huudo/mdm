@@ -159,17 +159,14 @@
                                 <div u="thumb">Slide Description 001</div>
                             </div>
                             <div>
-                                <img data-u="image" src="{{asset('public/images/slide2.jpg')}}" />
+                                <img data-u="image" src="{{asset('public/images/slide2.png')}}" />
                                 <div u="thumb">Slide Description 002</div>
                             </div>
                             <div>
-                                <img data-u="image" src="{{asset('public/images/slide3.jpg')}}" />
+                                <img data-u="image" src="{{asset('public/images/slide3.jpge')}}" />
                                 <div u="thumb">Slide Description 003</div>
                             </div>
-                            <div>
-                                <img data-u="image" src="{{asset('public/images/slide4.jpg')}}" />
-                                <div u="thumb">Slide Description 004</div>
-                            </div>
+             
                            
                         </div>
                         <!-- Bullet Navigator -->
